@@ -1,8 +1,4 @@
 ## Hi there 👋
-<!--
-**moresignal/moresignal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on becoming financially independent.
 - 🌱 I’m currently learning about personal finance and investment strategies.
@@ -12,5 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kartikagr04@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a knack for making complex financial concepts easy to understand.
--->
 
